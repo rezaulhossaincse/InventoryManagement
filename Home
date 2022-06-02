@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css" media="all" />
+	<title>Online Hostel</title>
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+		<img src="" alt="Logo" />
+			<ul class="menu-area">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Payment</a></li>
+				<li><a href="register.html">Register</a></li>
+				<li><a href="#">Login</a></li>
+				
+			</ul>
+		</div>
+		<div class="slider-area">
+		
+		</div>
+		<div class="news-area">
+		
+		</div>
+		<div class="service-area">
+		
+		</div>
+		<div class="footer">
+			<ul class="menu-area">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Payment</a></li>
+				<li><a href="#">Register</a></li>
+				<li><a href="#">Login</a></li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
